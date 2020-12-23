@@ -38,7 +38,6 @@ source/_integrations/auth.markdown @home-assistant/core
 source/_integrations/automatic.markdown @armills
 source/_integrations/automation.markdown @home-assistant/core
 source/_integrations/avea.markdown @pattyland
-source/_integrations/avri.markdown @timvancann
 source/_integrations/awair.markdown @danielsjf
 source/_integrations/aws.markdown @awarecan @robbiet480
 source/_integrations/axis.markdown @kane610
